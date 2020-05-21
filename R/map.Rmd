@@ -84,7 +84,7 @@ AU_insert
 
 ```
 
-# Main map of south Southern Australia 
+# Main map of southern South Australia 
 
 ```{r}
 ## South Australia borders
